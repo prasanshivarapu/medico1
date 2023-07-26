@@ -1,0 +1,300 @@
+*{
+    max-width: 100%;
+}
+.main{
+    
+}
+.iimage{
+    height: 40px;
+    margin-top: 10px;
+}
+.navb{
+   margin: 30px; 
+   background-color: #FFFFFF;
+
+   min-width: 567px;
+   padding-left: 45px;
+   padding-right: 45px;
+   
+   
+   
+        
+}
+.fixed-width {
+    max-width: 600px; 
+    margin: 0 auto; 
+}
+.main2{
+        background-color: #EAE8E9;  
+        height: 450px;
+        
+        
+          
+        
+}
+ .image2{
+        background-color: #3BCBFB;
+        min-height: 450px;
+        width: 686px;
+        padding-left: 55px;
+        padding-right: 45px; 
+        margin-left: 60px; 
+        
+    }
+
+.grp{
+    
+}
+.inner{
+        margin: 20px;
+        background-color: #2DB8E5;
+        height: 200px;
+        width: 380px;
+        
+}
+.image3{
+      
+        width: 500px;
+}
+.p1{
+        color: white;
+        font-family: Roboto Slab;
+        font-size: 23px;
+        padding: 10px;
+}
+.p2{
+        color: #124F7A;
+        font-family: Roboto Slab; 
+        margin-right: 5px; 
+        font-size: 15px;
+}
+.para{
+        color: white;
+        font-style: italic;
+        height: 50px;
+        width: 120px;
+        margin: 20px;
+        margin-left: 35px;
+        
+}
+.mem{
+        margin-left: 30px;
+    }
+.ph{
+    background-color: white;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.ph2{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.p4{
+
+margin-bottom: 25px;
+color: #ebdfdade
+}
+.p5{
+height: 20px;
+width: 150px;
+font-size: large;
+margin-bottom: 45px;
+}
+.p6{
+height: 80px;
+width: 300px;
+margin-bottom: 60px;
+color: rgba(109, 107, 107, 0.945);
+
+}
+.p8{
+    color: rgba(109, 107, 107, 0.945);
+    width: 250px;
+}
+.imgr{
+    height: 50px;
+    
+}
+.vid{
+    font-size: 16px;
+    margin-top: 17px;
+    width: 150px;
+}
+.get{
+   margin-left: 80px;
+   margin-right: 80px;
+}
+.joi{
+    background-color: black;
+    height: 65px;
+    padding: 23px;
+    
+  
+}
+.join{
+    color: white;
+    text-align: center;
+   
+}
+.number{
+    background-color: #EFF7FA;
+    height: 300px;
+    padding: 25px;
+   
+   
+}
+.number1{
+    padding-left: 120px;
+  padding-right: 120px;  
+}
+.signup{
+    margin-top: 15px;
+    width: 120px;
+    
+}
+.numberpng{
+    margin-top: 3px;
+    height: 65px;
+    margin-right: 8px;
+}
+.slide{
+    margin-left: 35px;
+}
+
+   
+.course1{
+    text-align: center;
+}
+.course{
+    background-color:#3FA5C6;
+    height: 50px;
+    border-radius: 3px;
+    width: 300px;
+    border-color: transparent;
+    color: white;
+} 
+.cour{
+    background-color: #BC352F;
+    height: 50px;
+    border-radius: 3px;
+    width: 300px;
+    border-color: transparent;
+    color: white;
+} 
+.you{
+    background-color: #b9dbe7;
+    height: 350px;
+}
+.our{
+    background-color: #615e5f;
+    height: 400px;
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.con{
+    margin-left: 105px;
+    margin-top: 100px;
+}
+.doc{
+    background-color: white;
+    height: 500px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.owc{
+   text-align: center;
+   margin: 25px;
+   font-size:30px;
+   margin-bottom: 25px;
+   padding-bottom:35px;
+}
+.doctor{
+    border-color: #615e5f;
+    
+   
+}
+.tor{
+    background-color: #124F7A;
+    height: 300px;
+    width: 300px;
+}
+.student{
+    color: #C9C9C9;
+}
+.studentsub{
+    color: #C0C0C0;
+    font-size: 25px;
+}
+.doct{
+    height: 120px;
+    border-radius: 55px;
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;  
+}
+.ro{
+    background-color: #403E4C;
+}
+.DrMuralidhar{
+    padding-left: 120px;
+    padding-right: 120px;
+    height: 350px;
+    padding-top: 20px;
+}
+.drimage{
+    height: 150px;
+    margin-right: 20px;
+}
+.drdetails{
+    padding-top: 25px;
+}
+.muraliname{
+    color: #DDDDDD;
+    font-weight: bold;
+}
+.subheading{
+    color: #C1C0C3;
+}
+.know{
+    color: #A9684F;
+}
+.signupsession{
+    background-color: #177EA4;
+    height: 130px;
+}
+.buttonlast{
+    width: 230px;
+    height: 55px;
+    border-color: transparent;
+    background-color: #3FA5C6;
+    color:#f8fbfc;
+    font-weight: bold;
+    font-size: 13px;
+}
+.lastsection{
+    height: 300px;
+    background-color: white;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 30px;
+}
+.mobileno{
+    color: #7D7D7D;
+    font-weight: bolder;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.customer{
+    color: #A9A9A9;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px; 
+    
+    border-style: solid;
+    background-image: linear-gradient(white, rgb(245, 241, 241));
+    border-width: 2px;
+    border-color: #D9D9D9;
+
+}
